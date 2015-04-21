@@ -1,0 +1,7 @@
+{
+  "name": "RIA_KX",
+  "description": "RIA KX Session on Virtual Reality",
+  "repository": "https://github.com/manasmehrotra3/RIA_KX",
+  "logo": "http://node-js-sample.herokuapp.com/node.svg",
+  "keywords": ["node", "express", "static"]
+}
